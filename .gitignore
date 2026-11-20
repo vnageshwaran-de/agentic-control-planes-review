@@ -1,0 +1,13 @@
+# secrets — never commit
+.openalex_key
+*.key
+.env
+# large regenerable caches
+abstracts.json
+citations.json
+# python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+# os
+.DS_Store

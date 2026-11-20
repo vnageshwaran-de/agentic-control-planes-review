@@ -1,0 +1,46 @@
+cff-version: 1.2.0
+title: "agentic-control-planes-review: Independent Coverage-Verification and Reproducibility Package (PRISMA-ScR)"
+message: "If you use this package, please cite both this archive and the accompanying paper (see preferred-citation)."
+type: dataset
+authors:
+  - family-names: Nageshwaran
+    given-names: Vinoth
+    orcid: "https://orcid.org/0009-0004-0332-231X"
+    affiliation: "Business Insider, New York, NY, USA"
+    email: vnageshwaran@gmail.com
+  - family-names: Ezekiel
+    given-names: Soundararajan
+    affiliation: "Department of Computer Science, Indiana University of Pennsylvania, Indiana, PA, USA"
+    email: sezekiel2013@gmail.com
+repository-code: "https://github.com/vnageshwaran-de/agentic-control-planes-review"
+url: "https://github.com/vnageshwaran-de/agentic-control-planes-review"
+# doi: "10.5281/zenodo.XXXXXXXX"   # fill in after the first Zenodo release
+license: MIT
+version: 1.0.0
+date-released: 2026-11-19
+keywords:
+  - systematic-mapping-review
+  - prisma-scr
+  - scoping-review
+  - agentic-ai
+  - llm-agents
+  - model-context-protocol
+  - llmops
+  - multi-agent-systems
+  - reproducibility
+  - inter-rater-reliability
+  - cohens-kappa
+  - openalex
+preferred-citation:
+  type: article
+  title: "Agentic AI Control Planes: A Systematic Survey of Protocols, Security, Cloud-Native LLMOps, and Governance"
+  authors:
+    - family-names: Nageshwaran
+      given-names: Vinoth
+      orcid: "https://orcid.org/0009-0004-0332-231X"
+    - family-names: Ezekiel
+      given-names: Soundararajan
+  journal: "IEEE Open Journal of the Computer Society"
+  year: 2026
+  publisher:
+    name: "Institute of Electrical and Electronics Engineers"

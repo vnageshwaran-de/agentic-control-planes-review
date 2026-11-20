@@ -1,0 +1,291 @@
+cluster	doi	year	title
+C1	10.1145/3802463.3802475	2026	Large Language Model Agent in Financial Trading: A Survey
+C1	10.1145/3770854.3785685	2026	Generating Realistic Human Mobility Data with Hybrid Large Language Model Agent
+C1	10.1145/3672197.3673434	2024	Kgent: Kernel Extensions Large Language Model Agent
+C1	10.1145/3749421	2025	Multi-LLM Agent Collaborative Intelligence
+C1	10.1145/3726302.3729965	2025	Empowering Large Language Model Agent through Step-Level Self-Critique and Self-Training
+C1	10.1145/3828523.3857007	2026	Scaling LLM Agent Tool Access: The MCP Gateway
+C1	10.1145/3832783.3837414	2026	Tangent: An Empirical Study of Testing Practices for LLM-Based Agent Applications
+C1	10.1145/3749421.3749436	2025	ALAS: A Stateful Multi-LLM Agent Framework for Disruption-Aware Planning
+C1	10.1145/3833142.3833192	2026	Poisoning LLM Agent Memory via Web Content
+C1	10.1145/3832783.3834409	2026	RefineAct: Automatic Runtime Verification of LLM Agent Actions
+C1	10.1145/3770855.3817872	2026	Parallelizing LLM Agent Execution with Contrastive Task Allocation
+C1	10.1145/3699952	2025	Envisioning Recommendations on an LLM-Based Agent Platform
+C1	10.1145/3808191	2026	LinkAnchor: An Autonomous LLM-Based Agent for Issue-to-Commit Link Recovery
+C1	10.1145/3786156.3788577	2026	Reliable SOC LLM Agent with Workflow Generation
+C1	10.1145/3832142	2026	LogicHunter: Testing LLM Agent Frameworks with an Agentic Oracle
+C1	10.1145/3820441.3821235	2026	Scaling LLM Agent Tool Access at Cloud Scale
+C1	10.1145/3767295.3803622	2026	AIMS: Cost-Efficient LLM-Based Agent Deployment in Hybrid Cloud-Edge Environments
+C1	10.1145/3841580.3845777	2026	Sincerity or Treasure: Bounded Strategic Communication Gameplay with LLM Agent
+C1	10.1145/3830454.3846564	2026	zkAgent: Verifiable LLM Agent Execution via One-Shot Transcript Proofs
+C1	10.1145/3799682.3840027	2026	AdaCon: Learning Adaptive Trust Regions for Consistent LLM Agent Reasoning
+C1	10.1145/3774904.3792555	2026	PolicySim: An LLM-Based Agent Social Simulation Sandbox for Proactive Policy Optimization
+C1	10.1145/3795866.3848463	2026	Demo: MobileClaw: A Notification-Driven, Human-Gated Mobile LLM Agent
+C1	10.1145/3828523.3857081	2026	KVLite: Efficient LLM Agent Scheduling via Head-Aware KV Sharing
+C1	10.1109/ICSE55347.2025.00157	2025	RepairAgent: An Autonomous, LLM-Based Agent for Program Repair
+C1	10.1145/3805621.3807660	2026	AgenTEE: Confidential LLM Agent Execution on Edge Devices
+C1	10.1145/3803437.3805536	2026	Bugs in Modern LLM Agent Frameworks: An Empirical Study
+C1	10.1145/3837062.3838894	2026	LLMA-UML: Extending the UML for Modeling LLM-Agent Systems
+C1	10.1145/3772363.3778738	2026	PoliSim@CHI 2026: LLM Agent Simulation for Policy
+C1	10.65109/GYMB4283	2026	DebugTA: An LLM-Based Agent for Simplifying Debugging and Teaching in Programming Education
+C1	10.1145/3773966.3777981	2026	LLM Agent-based Shilling Attack on Recommender Systems
+C1	10.1145/3799682.3840872	2026	FortMem: Secure Stateful Data Management for Long-Term LLM Agent Memory
+C1	10.1145/3832783.3837413	2026	ProbGuard: Proactive Runtime Monitoring for LLM Agent Safety via Probabilistic Prediction
+C1	10.1145/3832199	2026	PAGENT: Program Analysis Guided LLM Agent for Proof-of-Concept Generation
+C1	10.1145/3772079	2026	EmbodiedFly: Embodied LLM Agent with an Autonomous Reconfigurable Drone
+C1	10.1145/3701716.3715259	2025	RTBAgent: A LLM-based Agent System for Real-Time Bidding
+C1	10.1145/3784013.3784018	2026	Survey of Emerging Trends in LLM Agent Benchmarking
+C1	10.1145/3828523.3857104	2026	Make Graphs Great Again: Rethinking LLM Agent Architecture via Structure-Semantic Separation
+C1	10.1145/3830398.3830720	2026	WhatIf: Interactive Exploration of Large-Scale LLM Agent Simulations for Policy Reasoning
+C1	10.1145/3830454.3846644	2026	SkillCODER: Towards Auditing and Attribution of Copyright Infringement in LLM Agent Skills
+C1	10.1145/3799682.3840921	2026	DataDescribe: Auto-Generated Source Descriptors for LLM-Agent Retrieval over Heterogeneous Data
+C1	10.1145/3770855.3818856	2026	Battery-Sim-Agent: Leveraging LLM-Agent for Inverse Battery Parameter Estimation
+C1	10.1145/3832783.3834373	2026	How Your Credentials Are Leaked by LLM Agent Skills: An Empirical Study
+C1	10.1145/3805760.3814931	2026	AgentTelemetry: A Fault Detection Benchmark and Toolkit for LLM Agent Observability
+C1	10.1145/3774748.3795870	2026	What Do We Architect When We Architect LLM Agent Systems?
+C1	10.1145/3842391	2026	ClarifySTL: An Interactive LLM Agent Framework for STL Transformation through Requirements Clarification
+C1	10.1145/3842650.3843171	2026	Passes Alone, Fails Together: Benchmarking Semantic Coordination in Parallel LLM-Agent Development
+C1	10.1145/3816713.3816738	2026	Model-Specific Echo Chamber Formation Patterns in Repeated LLM Agent Networks
+C1	10.1145/3789240.3822606	2026	A YANG-Grounded LLM Agent Supporting Multi-Vendor OpenROADM Optical Transport Networks
+C1	10.1145/3659624	2024	Digital Forms for All: A Holistic Multimodal Large Language Model Agent for Health Data Entry
+C1	10.1145/3770855.3819001	2026	Compass: Navigating Global Marine Lead Data Integration through Expert-Guided LLM Agent
+C1	10.1145/3770855.3819001	2026	Compass: Navigating Global Marine Lead Data Integration through Expert-Guided LLM Agent
+C1	10.1145/3696630.3728714	2025	Towards the Versioning of LLM-Agent-Based Software
+C1	10.1145/3832783.3844581	2026	Secrets without Signatures: An LLM Agent for Logic-Defined Exposures in Recovered JavaScript
+C1	10.1145/3832783.3834637	2026	Introducing Safe LLM-Agent Execution via Typed Tool Mediation and World-Effect Evaluation
+C1	10.1145/3770855.3818944	2026	Designing A Scalable LLM Agent Framework for Large-scale Urban Segregation Simulation
+C1	10.1145/3808218	2026	Event-B Agent: Towards LLM Agent for Formal Model Synthesis and Repair
+C1	10.1145/3729386	2025	CXXCrafter: An LLM-Based Agent for Automated C/C++ Open Source Software Building
+C1	10.1109/ICSE55347.2025.00100	2025	An LLM-Based Agent-Oriented Approach for Automated Code Design Issue Localization
+C1	10.65109/RTFT9958	2026	When LLM Agent Teams Fail at Topological Spatial Reasoning Under Partial Observability
+C1	10.1145/3830398.3830539	2026	ArtAnno: Annotating Implicit Semantics in Artworks through LLM Agent-Driven Bidirectional Human-AI Augmentation
+C1	10.1145/3776574.3831117	2026	From Bytes to Semantics: LLM-Agent-Driven Commit Message Generation for Non-Code Assets
+C1	10.1145/3785327	2026	Code-Driven LLM Agent for One-Shot Explanatory Visual Question Answering
+C1	10.1145/3833142.3833202	2026	From Interaction Topology to Realized Context: Diagnosing Exposure in LLM-Agent Social Simulation
+C1	10.1145/3721201.3721397	2025	OAAgent: Multimodal LLM Agent for Predicting Knee Osteoarthritis Progression
+C1	10.1145/3832783.3837493	2026	CiL-Agent: Compiler-in-the-Loop LLM Agent for Memory-Safe C Program Repair
+C1	10.1145/3786162.3793232	2026	GI-Agent Search-Based LLM Agent for Code Optimization with Genetic Improvement
+C1	10.1145/3722212.3725134	2025	Sentence to Model: Cost-Effective Data Collection LLM Agent
+C1	10.1145/3832783.3834498	2026	Fuzz4DB: A Practice of LLM-Agent-Guided Fuzzing for Database Feature-Level Delta Testing
+C1	10.1145/3764925.3770907	2025	Evaluating the Predictability of Disaster Evacuation Behavior using LLM Agent Simulations
+C1	10.1145/3766918.3766948	2025	Toward Verifiable Misinformation Detection: A Multi-Tool LLM Agent Framework
+C1	10.1109/ICSE55347.2025.00226	2025	NIODebugger: A Novel Approach to Repair Non-Idempotent-Outcome Tests with LLM-Based Agent
+C1	10.65109/UCGT7089	2026	ReAcTree: Hierarchical LLM Agent Trees with Control Flow for Long-Horizon Task Planning
+C1	10.1145/3742413.3789086	2026	Vistoryteller: Designing Data Stories with LLM Agent-Based Generation and Interactive User Control
+C1	10.1145/3715014.3722082	2025	Toward Sensor-In-the-Loop LLM Agent: Benchmarks and Implications
+C1	10.1145/3770743.3803934	2026	PCBgen: Self-Evolving LLM Agent for Specification-to-Schematic PCB Design with Parameter Tuning
+C1	10.65109/SZPU6292	2026	Withdrawn June 8, 2026: Cognitive Heterogeneity and Behavioral Biases in Multi-Stage Supply Chains: Evidence from LLM-Based Agent Simulations
+C1	10.1145/3765611.3815494	2026	From Static Surveys to Living Agents: A Generative LLM-Agent Workflow for Residential Energy Simulation
+C1	10.1145/3770743.3804285	2026	drcAgent: A Design Rule Aware LLM Agent for DRC Auto-Fix with Adversarial Reinforcement Learning
+C1	10.1145/3773080	2025	The Emerged Security and Privacy of LLM Agent: A Survey with Case Studies
+C1	10.1145/3701716.3715189	2025	OneKE: A Dockerized Schema-Guided LLM Agent-based Knowledge Extraction System
+C1	10.1145/3706598.3713639	2025	Exploring the Design of LLM-based Agent in Enhancing Self-disclosure Among the Older Adults
+C1	10.1145/3770854.3785688	2026	Exploring Recommender System Evaluation: A Multi-Modal LLM Agent Framework for A/B Testing
+C1	10.1145/3842793.3842889	2026	Design of a Multi-LLM Agent Cross-Disciplinary Collaborative Emergency Response System for Crisis Management
+C1	10.1145/3706599.3719729	2025	UXAgent: An LLM Agent-Based Usability Testing Framework for Web Design
+C1	10.1145/3637528.3671837	2024	CheatAgent: Attacking LLM-Empowered Recommender Systems via LLM Agent
+C1	10.1145/3746252.3761607	2025	A Large-Scale Dataset of Interactions Between Weibo Users and Platform-Empowered LLM Agent
+C1	10.1145/3749483	2025	SELA: Smart Edge LLM Agent to Optimize Response Trade-offs of AI Assistants
+C1	10.1145/3786582.3786818	2026	Setup AGent (SAG): A Dual-Model LLM Agent for Autonomous End-to-End Java Project Configuration
+C1	10.1145/3856389.3856457	2026	A Study on an Explainable Causal-Enhanced LLM Agent for Predicting the Forming Quality of Automotive Component Materials
+C1	10.1145/3786335.3813149	2026	Context, Reasoning, and Hierarchy: A Cost-Performance Study of Compound LLM Agent Design in an Adversarial POMDP
+C1	10.1145/3746027.3762030	2025	EMO-Avatar: An LLM-Agent-Orchestrated Framework for Multimodal Emotional Support in Human Animation
+C1	10.1145/3774904.3793020	2026	Invisible Walls in Cities: Designing LLM Agent to Predict Urban Segregation Experience with Social Media Content
+C1	10.1145/3772318.3791568	2026	Dark Patterns Meet GUI Agents: LLM Agent Susceptibility to Manipulative Interfaces and the Role of Human Oversight
+C1	10.1145/3715336.3735786	2025	ELLMA-T: an Embodied LLM-agent for Supporting English Language Learning in Social VR
+C1	10.1145/3802133.3802134	2026	Autonomous Research Loops: An LLM-Agent Framework for End-to-End ML Experimentation, Manuscripting, and Self-Evaluation
+C1	10.1145/3821162.3821169	2026	A Human-in-the-Loop LLM Agent Framework with LoRA Domain Adaptation for DO-330 TQL-1 Tool Qualification
+C1	10.1145/3728922	2025	You Name It, I Run It: An LLM Agent to Execute Tests of Arbitrary Projects
+C1	10.1145/3613904.3642698	2024	How AI Processing Delays Foster Creativity: Exploring Research Question Co-Creation with an LLM-based Agent
+C1	10.1145/3844666	2026	From Solo Post to Shared Space: How a Public LLM Agent Reshapes Human-to-Human Conversation Structure on a Social Platform
+C1	10.1145/3775073.3775120	2025	Research on the Design and Application of Learning Assistance Centered on Student Development Based on RAG LLM Agent
+C1	10.1145/3775073.3775120	2025	Research on the Design and Application of Learning Assistance Centered on Student Development Based on RAG LLM Agent
+C1	10.1145/3701716.3719232	2025	Unveiling the Potential of LLMs in Simulated Society: A Knowledge-Driven LLM Agent Framework for User Modeling
+C1	10.1145/3654777.3676374	2024	WaitGPT: Monitoring and Steering Conversational LLM Agent in Data Analysis with On-the-Fly Code Visualization
+C1	10.1145/3729706.3729783	2025	Research on Design and Implementation of an Intelligent Network Asset Search System Based on LLM Agent and FOFA
+C1	10.1145/3806980.3806990	2026	Construction of a Retrieval-Augmented LLM Agent for Health Education and a Multi-dimensional Evaluation Framework: A Comparative Study of Chinese Large Language Models
+C1	10.1145/3806096.3844824	2026	When Least Privilege Backfires
+C1	10.1145/3749421.3749441	2025	Aphorisms for Collaborative Intelligence
+C1	10.1145/3749421.3749435	2025	SagaLLM: Persistent Context Management, Constraint Validation, and Transaction Guarantees
+C1	10.1145/3749421.3749429	2025	CRIT: Socratic Inquiry for Critical Thinking in LLMs
+C1	10.1145/3749421.3749433	2025	Modeling Emotions in Multimodal LLMs
+C1	10.1145/3749421.3749424	2025	Introduction to The MACI Framework: A System 2 Architecture for Artificial General Intelligence
+C1	10.1145/3749421.3749442	2025	Epilogue: Two Paradigm Bridges
+C1	10.1145/3749421.3749422	2025	Preface
+C1	10.1145/3749421.3749443	2025	Authors' Biography/Index
+C1	10.1145/3749421.3749438	2025	Unified Cognitive Consciousness Theory: Formalization, Validation, and Outlook
+C1	10.1145/3749421.3749428	2025	Unified Cognitive Consciousness Theory: Introduction
+C1	10.1145/3749421.3749432	2025	Bias Correction and Data Synthesis through Reflective LLM Collaboration
+C1	10.1145/3749421.3749430	2025	SocraSynth: Adversarial Multi-LLM Reasoning
+C1	10.1145/3749421.3749425	2025	A Brief History of AI: From Turing to Transformers
+C1	10.1145/3749421.3749423	2025	Acknowledgments
+C1	10.1145/3749421.3749440	2025	Polynthesis: Discovering Insights Beyond the Known
+C1	10.1145/3749421.3749439	2025	A Retrospective and Adaptive Framework to Improve LLMs
+C1	10.1145/3749421.3749431	2025	EVINCE: Optimizing Adversarial LLM Dialogues via Conditional Statistics and Information Theory
+C1	10.1145/3749421.3749427	2025	Prompt Engineering: Few Shots, Chain of Thought, and Retrieval-Augmented Generation
+C1	10.1145/3749421.3749437	2025	CoCoMo: Computational Consciousness Model
+C1	10.1145/3749421.3749434	2025	A Checks-and-Balances Framework for Context-Aware Ethical AI Alignment
+C1	10.1145/3749421.3749426	2025	Capabilities and Opportunities of Language Models
+C2	10.1145/3774904.3792813	2026	Data-Driven Function Calling Improvements in Large Language Model for Online Financial QA
+C2	10.1145/3832101	2026	Datura: Progressive Red Teaming Testing for Tool Invocation Chain in LLM Agents
+C2	10.1145/3813822.3814049	2026	Intelligent BIM Modeling System Based on Large Language Model and Function Calling Technology
+C2	10.1145/3832209	2026	Function Calling as a Flexible LLM Defense Add-On: Capability and Application Exploration
+C2	10.1145/3756681.3756975	2025	CallNavi, A challenge and empirical study on LLM function calling and routing
+C4	10.1145/3770854.3780156	2026	Towards Self-cognitive Exploration: Metacognitive Knowledge Graph Retrieval Augmented Generation
+C4	10.1145/3696410.3714727	2025	G-Refer: Graph Retrieval-Augmented Large Language Model for Explainable Recommendation
+C4	10.1145/3770855.3817630	2026	Mixture-of-Experts Knowledge Graph Retrieval-Augmented Generation for Multi-Agent LLM-based Recommendation
+C4	10.1145/3774904.3792358	2026	When to Trust: A Causality-Aware Calibration Framework for Accurate Knowledge Graph Retrieval-Augmented Generation
+C4	10.1145/3821725.3821800	2026	GraphRAG-Based Enhancement Method for Large Language Model in Legal Translation
+C4	10.1145/3801228.3801238	2026	An Intelligent Q&A System for Production Line O&M Based on Knowledge Graph and GraphRAG
+C5	10.1145/3772052.3772264	2026	Cauchy: A Cost-Efficient LLM Serving System through Adaptive Heterogeneous Deployment
+C5	10.1145/3767295.3769316	2026	FlexPipe: Adapting Dynamic LLM Serving Through Inflight Pipeline Refactoring in Fragmented Serverless Clusters
+C5	10.1145/3748273.3749205	2025	A Cloud-Edge Collaborative Inference System for Data-secure LLM Serving
+C5	10.1145/3830418.3843855	2026	Taming Inference Workloads at Global Scale: Foundation Model Serving in Amazon Bedrock
+C5	10.1145/3768992	2025	JITI: Dynamic Model Serving for Just-in-Time Traffic Inference
+C5	10.1145/3772052.3772261	2026	CIS: Checkpointed Inference for Data Drift-Resilient Model Serving at Edge Servers
+C5	10.1145/3727200.3727217	2025	Offline Energy-Optimal LLM Serving: Workload-Based Energy Models for LLM Inference on Heterogeneous Systems
+C5	10.1145/3773274.3774270	2025	FakeInf: Selective Deep Neural Network Inference for Latency and Energy-Aware Model Serving Pipelines
+C5	10.1145/3620666.3651335	2024	SpecInfer: Accelerating Large Language Model Serving with Tree-based Speculative Inference and Verification
+C5	10.1145/3673038.3673122	2024	GMM: An Efficient GPU Memory Management-based Model Serving System for Multiple DNN Inference Models
+C6	10.1145/3828523.3857091	2026	Energy-Aware Scheduling for Serverless LLM Serving on Shared GPUs
+C6	10.5555/3828523.3863986	2026	Session Summary Podcast: Session 4: Serverless and Elastic LLM Inference
+C6	10.1145/3828523.3857017	2026	gKSM: GPU Memory Deduplication at Driver Layer for Serverless LLM Inference
+C6	10.1145/3767295.3769316	2026	FlexPipe: Adapting Dynamic LLM Serving Through Inflight Pipeline Refactoring in Fragmented Serverless Clusters
+C6	10.1145/3731599.3767396	2025	WAGES: Workload-Aware GPU Sharing System for Energy-Efficient Serverless LLM Serving
+C6	10.1145/3669940.3707285	2025	Medusa: Accelerating Serverless LLM Inference with Materialization
+C6	10.1145/3777884.3796983	2026	Evaluating Kubernetes Performance for GenAI Inference: From Automatic Speech Recognition to LLM Summarization
+C7	10.1145/3773966.3777981	2026	LLM Agent-based Shilling Attack on Recommender Systems
+C7	10.1145/3830454.3846564	2026	zkAgent: Verifiable LLM Agent Execution via One-Shot Transcript Proofs
+C7	10.1145/3830454.3846644	2026	SkillCODER: Towards Auditing and Attribution of Copyright Infringement in LLM Agent Skills
+C7	10.1145/3773080	2025	The Emerged Security and Privacy of LLM Agent: A Survey with Case Studies
+C7	10.1145/3729706.3729783	2025	Research on Design and Implementation of an Intelligent Network Asset Search System Based on LLM Agent and FOFA
+C8	10.1145/3847352.3848096	2026	PkgScanArena: Benchmarking LLM-Based Package Scanners against Indirect Prompt Injection
+C8	10.1145/3769694.3771165	2025	Weaponizing Words: Direct & Indirect Prompt Injection Attacks on LLM
+C8	10.1145/3847320.3847397	2026	Not an A11y: How Android Accessibility Exposes Mobile AI Agents to Indirect Prompt Injection
+C8	10.1145/3605764.3623985	2023	Not What You've Signed Up For: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection
+C8	10.1145/3847320.3847398	2026	WAInjectBench: Benchmarking Prompt Injection Detections for Web Agents
+C8	10.1145/3803628.3807972	2026	Analysis of LLMs Against Prompt Injection and Jailbreak Attacks
+C8	10.1145/3847352.3848083	2026	Hacking Back the AI Hacker: Prompt Injection as a Defense Against LLM-driven Cyberattacks
+C8	10.1145/3767308.3836398	2026	PVDetector: Detecting Prompt Injection Attacks on Purpose-Specific LLM Agents through Policy-Violation Concept Analysis
+C8	10.1145/3847320.3847399	2026	Log-To-Leak: Prompt Injection Attacks on Tool-Using LLM Agents via the Model Context Protocol
+C8	10.1145/3658644.3690291	2024	Optimization-based Prompt Injection Attack to LLM-as-a-Judge
+C8	10.1145/3805712.3808553	2026	The Vulnerability of LLM Rankers to Prompt Injection Attacks
+C9	10.1145/3829373	2026	VTR-LLM: Multi-Agent LLM Framework for Automated Debugging of FPGA CAD Flows
+C9	10.1145/3830454.3832602	2026	CVE-Genie: An LLM-Based Multi-Agent Framework for Reproducing CVEs
+C9	10.1145/3786335.3813227	2026	Orla: A Library for Serving LLM-Based Multi-Agent Systems
+C9	10.1145/3785651.3831525	2026	Hidden Profile Decision Making in Multi-Agent LLM Groups
+C9	10.1145/3814573.3814948	2026	LakeAgents: An LLM-Based Multi-Agent Framework for Tabular Data Augmentation
+C9	10.1145/3818617	2026	SGAgent: Suggestion-Guided LLM-Based Multi-Agent Framework for Repository-Level Software Repair
+C9	10.1145/3820755.3833404	2026	A Multi-Agent LLM Pipeline for Legal Argument Mining
+C9	10.1145/3770855.3818914	2026	SpaCellAgent: A Self-Evolving LLM-Based Multi-Agent Framework for Trajectory Analysis
+C9	10.1145/3858004.3858010	2026	LLM-based multi-agent framework for IoT solution generation in ThingsBoard
+C9	10.1145/3803437.3805531	2026	Complexity-Ranked Iterative Refactoring from Microservices to LLM-based Multi-Agent Systems
+C9	10.1145/3814573.3814949	2026	Enhancing Human Mobility Prediction with Spatially Aware LLM-based Multi-Agent Systems
+C9	10.65109/PUIJ7087	2026	CraftUtopia: A LLM-based Multi-Agent System for Collaborative Construction in Minecraft
+C9	10.1145/3828523.3857118	2026	FlexMARL: Graph-Driven Rollout-Training Co-Design for LLM-Based Multi-Agent Reinforcement Learning
+C9	10.65109/KAPY7208	2026	A Demonstration of an LLM-based Multi-agent System for Drug Discovery
+C9	10.65109/VAVC8140	2026	Influencing LLM Multi-Agent Dialogue via Policy-Parameterized Prompts
+C9	10.1145/3772673.3772682	2026	Multi-Agent LLM for Reducing Unsheltered Homelessness
+C9	10.1145/3746252.3760954	2025	DAGP: Difficulty-Aware Graph Pruning for LLM-Based Multi-Agent System
+C9	10.1145/3712255.3726575	2025	An LLM-Based Multi-Agent Framework for Evolutionary Blackbox Optimization
+C9	10.65109/GDIW9780	2026	MedCoScientist: A Multi-Agent LLM Framework for Clinical Decision Support
+C9	10.65109/EXAJ9853	2026	Parallelized Planning-Acting for Multi-Agent LLM Systems in Minecraft
+C9	10.1145/3770854.3780202	2026	Robust LLM-based Multi-Agent System with Action Negotiation and Sharing Redundancy Enhancement
+C9	10.1145/3803730.3803749	2026	LLM-Based Multi-Agent Method for Compliant Generation of Electrical Bonding Processes
+C9	10.65109/HXKA2256	2026	AutoMETA: A Multi-Agent LLM System for Autonomous Meta-Analysis
+C9	10.1145/3830397.3841853	2026	Ideaverse: Structuring and Steering Design Brainstorming with a Multi-Agent LLM System
+C9	10.1145/3799682.3839916	2026	HyperMind: Claim Resolution and Reputation Tracking for Trustworthy Multi-Agent LLM Aggregation
+C9	10.1145/3799682.3841003	2026	SpecGuard: Source-Aware Heterogeneous Agent Placement for Defending LLM-Based Multi-Agent Systems against Adversarial Communication
+C9	10.65109/PGWI7290	2026	RouterHGC: Optimized Router for LLM-based Multi-Agent Systems via Heterogeneous Graph Contrastive Learning
+C9	10.1145/3803437.3807394	2026	ScholForge: A Multi-Agent LLM System for Autonomous Software Engineering Research
+C9	10.1145/3805622.3812607	2026	MOSAIV: Multi-Agent LLM Swarms for Automated Multimedia News Verification
+C9	10.1145/3726302.3731959	2025	Insight Agents: An LLM-Based Multi-Agent System for Data Insights
+C9	10.1145/3786167.3788430	2026	A Catalogue of Evaluation Metrics for LLM-Based Multi-Agent Frameworks in Software Engineering
+C9	10.1145/3772318.3790326	2026	RPGAgent: Driving Coherent Story-to-Play Generation with an LLM-Based Multi-Agent System
+C9	10.1145/3764926.3771951	2025	Urban-MAS: Human-Centered Urban Prediction with LLM-Based Multi Agent System
+C9	10.1145/3770855.3818323	2026	Beyond End-to-End Video Models: An LLM-Based Multi-Agent System for Educational Video Generation
+C9	10.1145/3744916.3773153	2026	RefAgent: A Multi-agent LLM-based Framework for Automatic Software Refactoring
+C9	10.1145/3803437.3806428	2026	TestAgent: A Multi-Agent LLM Framework for Repository-Level Unit Test Generation
+C9	10.1145/3805696.3846484	2026	The Decomposition Dilemma: When Do Multi-Agent LLM Workflows Help Grounded Knowledge Generation?
+C9	10.1145/3842721.3850115	2026	Ripple: Coordination-Free Message Scheduling for Multi-Agent LLM Workflows at the IoT Edge
+C9	10.1145/3816713.3818807	2026	A Validation and Governance Framework for Multi-Agent LLM Scientific Software Development
+C9	10.1145/3772318.3790815	2026	DiLLS: Interactive Diagnosis of LLM-based Multi-agent Systems via Layered Summary of Agent Behaviors
+C9	10.1145/3830454.3846427	2026	POSTER: Collaboration Fingerprinting Reveals What Adaptive Multi-Agent LLM Systems Process on the Wire
+C9	10.65109/VLUA1303	2026	LEGOMem: Modular Procedural Memory for Multi-agent LLM Systems for Workflow Automation
+C9	10.1145/3843778.3844517	2026	Decompose to Conquer: A Multi-agent LLM Pipeline for Requirements Engineering and Software Design
+C9	10.1145/3770855.3818421	2026	G-STAR: Graph-based Scheduling with Trace-driven Adaptive Routing for Industrial LLM-based Multi-Agent Systems
+C9	10.65109/CSLO7280	2026	Beyond Vibe Decision Theory: Asymmetric Manipulation Vulnerabilities in LLM Multi-Agent Coordination
+C9	10.1145/3748522.3779982	2026	Multi-Agent LLM Framework for PRECEDE-PROCEED Aligned Behavior Change Intervention Design
+C9	10.1145/3841580.3845779	2026	Iris: A Multi-Agent LLM System for Framework-Grounded, Human-in-the-Loop HCI Evaluation
+C9	10.1145/3800645.3813008	2026	MAVE: An Augmented Multi-agent LLM System for Interactive Design and Robotic Fabrication
+C9	10.1145/3832783.3834497	2026	Top-Down Multi-agent LLM System with Runtime Data for MISRA C Violation Detection
+C9	10.1145/3696630.3728618	2025	AutoReview: An LLM-based Multi-Agent System for Security Issue-Oriented Code Review
+C9	10.1145/3772318.3791157	2026	Sensemaking in Multi-Agent LLM Interfaces: How Users Interpret Transparency and Trustworthiness Cues
+C9	10.1145/3641555.3705189	2025	Generating AI Literacy MCQs: A Multi-Agent LLM Approach
+C9	10.1145/3770855.3817630	2026	Mixture-of-Experts Knowledge Graph Retrieval-Augmented Generation for Multi-Agent LLM-based Recommendation
+C9	10.1145/3849493.3849573	2026	SkyMind: A Multi-Agent LLM Framework for Behavioral Analysis of Three-Party Drone Logistics
+C9	10.1145/3805689.3812218	2026	When Identity Overrides Incentives: Representational Choices as Governance Decisions in Multi-Agent LLM Systems
+C9	10.1145/3800000.3800222	2026	Multi-Agent LLM Framework for Imageability Assessment in Trusted Multimodal Data Spaces
+C9	10.1145/3701716.3716886	2025	ChartCitor: Answer Citations for ChartQA via Multi-Agent LLM Retrieval
+C9	10.1145/3847307	2026	When Too Many Cooks Spoil the Broth: Three Failure Modes of Multi-Agent LLM Reliability
+C9	10.1145/3696410.3714595	2025	Thematic-LM: A LLM-based Multi-agent System for Large-scale Thematic Analysis
+C9	10.1145/3726302.3731950	2025	MAAQR: An LLM-based Multi-Agent Framework for Adaptive Query Rewriting in Alipay Search
+C9	10.1145/3703412.3703439	2025	Methodology for Quality Assurance Testing of LLM-based Multi-Agent Systems
+C9	10.1145/3748522.3779714	2026	A Multi-Agent LLM Framework for Design Space Exploration in Autonomous Driving Systems
+C9	10.1145/3696630.3728717	2025	Facilitating Trustworthy Human-Agent Collaboration in LLM-based Multi-Agent System oriented Software Engineering
+C9	10.1145/3701716.3715225	2025	Flow-of-Action: SOP Enhanced LLM-Based Multi-Agent System for Root Cause Analysis
+C9	10.1145/3742413.3789130	2026	Smarter Together: Enhancing Human-AI Collaborative Grading With Teacher-Cognition Multi-Agent LLM Framework
+C9	10.1145/3674399.3674445	2024	BlockAgents: Towards Byzantine-Robust LLM-Based Multi-Agent Coordination via Blockchain
+C9	10.1145/3708035.3736023	2025	Automating HPC Software Compilation, Deployment, and Error Resolution through an LLM-based Multi-Agent System
+C9	10.1145/3706599.3721207	2025	Assessing Critical Thinking through a Multi-Agent LLM-Based Debate Chatbot
+C9	10.14778/3750601.3750611	2025	SagaLLM: Context Management, Validation, and Transaction Guarantees for Multi-Agent LLM Planning
+C9	10.1145/3712003	2025	LLM-Based Multi-Agent Systems for Software Engineering: Literature Review, Vision, and the Road Ahead
+C9	10.1145/3831653	2026	Feasibility of Using a Multi-Agent LLM System to Correct Annotations and Support Low-Effort Activity Labeling
+C9	10.1145/3843778.3856135	2026	Sufficiently Advanced Agents Are Indistinguishable from Erlang: An Operational Mapping from OTP to Multi-agent LLM Systems
+C9	10.1145/3746252.3760894	2025	Improving Rare and Common ICD Coding via a Multi-Agent LLM-Based Approach
+C9	10.1145/3765612.3767238	2025	Multi-Agent LLM Reasoning for Clinical Procedure Sequencing from High-Granularity EHR Data
+C9	10.1145/3746252.3761164	2025	Trustworthy AI Psychotherapy: Multi-Agent LLM Workflow for Counseling and Explainable Mental Disorder Diagnosis
+C9	10.1145/3746252.3760863	2025	cMALC-D: Contextual Multi-Agent LLM-Guided Curriculum Learning with Diversity-Based Context Blending
+C9	10.1145/3701716.3716888	2025	PlotGen: Multi-Agent LLM-based Scientific Data Visualization via Multimodal Retrieval Feedback
+C9	10.1145/3793302.3793371	2026	Bridging Design and Implementation: A Study of Multi-Agent LLM Architectures for Automated Front-End Generation
+C9	10.1145/3772363.3798437	2026	NeuroWise: A Multi-Agent LLM Glass-Box System for Practicing Double-Empathy Communication with Autistic Partners
+C9	10.1145/3779211.3795741	2026	Agentic Orchestration for Adaptive Educational Recommendations: A Multi-Agent LLM Framework for Personalized Learning Pathways
+C9	10.1145/3714394.3756185	2025	A Multi-Agent LLM Network for Suggesting and Correcting Human Activity and Posture Annotations
+C9	10.1145/3765612.3767792	2025	Automated Clinical Problem Detection from SOAP Notes using a Collaborative Multi-Agent LLM Architecture
+C9	10.1145/3748636.3763225	2025	LLM-Based Multi-Agent System and Simplicial Self-Supervised Learning Model for Regional Cancer Prevalence Estimation Using Satellite Imagery
+C9	10.65109/CZDC3237	2026	The Role of Social Learning and Collective Norm Formation in Fostering Cooperation in LLM Multi-Agent Systems
+C9	10.1145/3664476.3670908	2024	Forensic Analysis of Artifacts from Microsoft's Multi-Agent LLM Platform AutoGen
+C9	10.1145/3808045.3808058	2026	Will This Tool Ever Push Back or Challenge Me?: Reflections on a Multi-agent LLM Tool for Perspective Seeking
+C9	10.1145/3703323.3704277	2025	MEQA - A Multi-modal Interactive Enterprise Query Answering System using Multi-Agent LLM
+C9	10.1145/3703412.3703416	2025	BudgetMLAgent: A Cost-Effective LLM Multi-Agent system for Automating Machine Learning Tasks
+C9	10.1609/icaps.v35i1.36130	2025	DynTaskMAS
+C9	10.1145/3841580.3841627	2026	Analysis of the Psychological Impact and Relation of Organizational Networks on Employee Collaborative Processes
+C11	10.1145/3830467	2026	Confused Deputy Attack against Model Context Protocol
+C11	10.1145/3822516.3834882	2026	x3d_mcp: A Model Context Protocol Server for AI-Assisted X3D Authoring
+C11	10.1145/3850159	2026	Real Faults in Model Context Protocol (MCP) Software: a Comprehensive Taxonomy
+C11	10.1145/3796519	2026	Model Context Protocol (MCP): Landscape, Security Threats, and Future Research Directions
+C11	10.1145/3847119	2026	Understanding Bugs in Model Context Protocol Development Frameworks: An Empirical Study
+C11	10.1145/3786160.3788471	2026	MCP-Scanner: Detecting Security Risks in Model Context Protocol Systems
+C11	10.1145/3822455.3830317	2026	Realizing a Model Context Protocol (MCP) Server for the Graphical Language Server Platform (GLSP)
+C11	10.1145/3737897.3767287	2025	Secure Model Context Protocol for Large Language Models with Dual Signatures
+C11	10.1145/3822516.3834883	2026	Techne: A Deterministic Craft Layer for Model Context Protocol Servers, Grounded in LLM-Authored X3D
+C11	10.1145/3737895.3768303	2025	IoT-MCP: Bridging LLMs and IoT Systems Through Model Context Protocol
+C11	10.1145/3786161.3788462	2026	Developer Challenges in the Adoption of Model Context Protocol in AI Agent Development
+C11	10.1145/3847320.3847399	2026	Log-To-Leak: Prompt Injection Attacks on Tool-Using LLM Agents via the Model Context Protocol
+C11	10.1145/3711875.3736687	2025	SensorMCP: A Model Context Protocol Server for Custom Sensor Tool Creation
+C11	10.1145/3800935.3830851	2026	A Cost Model for Token Consumption of Hypermedia and the Model-Context-Protocol in Agentic Loops
+C11	10.65109/GMHB4353	2026	Information Fidelity in Tool-Using LLM Agents: A Martingale Analysis of the Model Context Protocol
+C11	10.1145/3814959	2026	Model Context Protocol (MCP) at First Glance: Studying the Security and Maintainability of MCP Servers
+C11	10.1145/3858625	2026	Model Context Protocol (MCP) Tool Descriptions Are Smelly! Towards Improving AI Agent Efficiency with Augmented MCP Tool Descriptions
+C11	10.1145/3789692.3789854	2026	Model Context Protocol Servers for Intelligent Optimization: From Primitive Operations to Complex Problem Solving
+C11	10.1145/3794209.3794236	2026	Ontology-Driven AI Agent Collaboration for Smart Healthcare: Integrating Model Context Protocol with Mixture of Experts
+C11	10.1145/3772363.3798433	2026	From a News Article to Cards: Supporting Card News Production in Student Newsrooms via Model Context Protocol
+C11	10.5555/1838206.1838479	2010	An agent communication protocol for resolving conflicts
+C13	10.1145/3803437.3804904	2026	Observability and Runtime Governance for Agentic AI Systems
+C13	10.1145/3843967.3844689	2026	Using Epistemic Observability in Agentic Systems for Combating Hallucinations
+C13	10.1145/3844136.3845869	2026	Poliac: Production Observability for LLM-Based Infrastructure as Code
+C13	10.1145/3806200	2026	LLMRCA: Multilevel Root Cause Analysis for LLM Applications Using Multimodal Observability Data
+C13	10.1145/3805760.3814931	2026	AgentTelemetry: A Fault Detection Benchmark and Toolkit for LLM Agent Observability
+C13	10.65109/RTFT9958	2026	When LLM Agent Teams Fail at Topological Spatial Reasoning Under Partial Observability
+C13	10.1145/3706599.3719914	2025	Design Principles and Guidelines for LLM Observability: Insights from Developers
+C13	10.1145/3809481.3816482	2026	InferenceProfiler: Enhancing the Observability of Performance, Cost, and Energy of LLM Inferencing in the Cloud

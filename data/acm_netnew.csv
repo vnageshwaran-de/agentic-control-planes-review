@@ -1,0 +1,29 @@
+doi,year,clusters,title
+10.1145/3749421.3749422,2025,C1,Preface
+10.1145/3749421.3749423,2025,C1,Acknowledgments
+10.1145/3749421.3749424,2025,C1,Introduction to The MACI Framework: A System 2 Architecture for Artificial General Intelligence
+10.1145/3749421.3749425,2025,C1,A Brief History of AI: From Turing to Transformers
+10.1145/3749421.3749426,2025,C1,Capabilities and Opportunities of Language Models
+10.1145/3749421.3749427,2025,C1,"Prompt Engineering: Few Shots, Chain of Thought, and Retrieval-Augmented Generation"
+10.1145/3749421.3749428,2025,C1,Unified Cognitive Consciousness Theory: Introduction
+10.1145/3749421.3749429,2025,C1,CRIT: Socratic Inquiry for Critical Thinking in LLMs
+10.1145/3749421.3749430,2025,C1,SocraSynth: Adversarial Multi-LLM Reasoning
+10.1145/3749421.3749431,2025,C1,EVINCE: Optimizing Adversarial LLM Dialogues via Conditional Statistics and Information Theory
+10.1145/3749421.3749432,2025,C1,Bias Correction and Data Synthesis through Reflective LLM Collaboration
+10.1145/3749421.3749433,2025,C1,Modeling Emotions in Multimodal LLMs
+10.1145/3749421.3749434,2025,C1,A Checks-and-Balances Framework for Context-Aware Ethical AI Alignment
+10.1145/3749421.3749435,2025,C1,"SagaLLM: Persistent Context Management, Constraint Validation, and Transaction Guarantees"
+10.1145/3749421.3749437,2025,C1,CoCoMo: Computational Consciousness Model
+10.1145/3749421.3749438,2025,C1,"Unified Cognitive Consciousness Theory: Formalization, Validation, and Outlook"
+10.1145/3749421.3749439,2025,C1,A Retrospective and Adaptive Framework to Improve LLMs
+10.1145/3749421.3749440,2025,C1,Polynthesis: Discovering Insights Beyond the Known
+10.1145/3749421.3749441,2025,C1,Aphorisms for Collaborative Intelligence
+10.1145/3749421.3749442,2025,C1,Epilogue: Two Paradigm Bridges
+10.1145/3749421.3749443,2025,C1,Authors' Biography/Index
+10.1145/3774904.3793020,2026,C1,Invisible Walls in Cities: Designing LLM Agent to Predict Urban Segregation Experience with Social Media Content
+10.1145/3711875.3736687,2025,C11,SensorMCP: A Model Context Protocol Server for Custom Sensor Tool Creation
+10.5555/1838206.1838479,2010,C11,An agent communication protocol for resolving conflicts
+10.1145/3777884.3796983,2026,C6,Evaluating Kubernetes Performance for GenAI Inference: From Automatic Speech Recognition to LLM Summarization
+10.5555/3828523.3863986,2026,C6,Session Summary Podcast: Session 4: Serverless and Elastic LLM Inference
+10.1145/3767308.3836398,2026,C8,PVDetector: Detecting Prompt Injection Attacks on Purpose-Specific LLM Agents through Policy-Violation Concept Analysis
+10.1145/3849493.3849573,2026,C9,SkyMind: A Multi-Agent LLM Framework for Behavioral Analysis of Three-Party Drone Logistics
