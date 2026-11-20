@@ -6,15 +6,26 @@ authors:
   - family-names: Nageshwaran
     given-names: Vinoth
     orcid: "https://orcid.org/0009-0004-0332-231X"
-    affiliation: "Business Insider, New York, NY, USA"
-    email: vnageshwaran@gmail.com
+    affiliation: "University of the Cumberlands, Williamsburg, KY, USA"
+    email: vnageshwaran41452@ucumberlands.edu
+  - family-names: Kumar
+    given-names: Vivek
+    affiliation: "Oracle Corporation, Austin, TX, USA"
+    email: vic.kumar@oracle.com
+  - family-names: Saravanan
+    given-names: Harini
+    affiliation: "Boston University, Boston, MA, USA"
+    email: hsaravan@bu.edu
+  - family-names: Tran
+    given-names: Tin T.
+    affiliation: "Ton Duc Thang University, Ho Chi Minh City, Vietnam"
   - family-names: Ezekiel
     given-names: Soundararajan
     affiliation: "Department of Computer Science, Indiana University of Pennsylvania, Indiana, PA, USA"
-    email: sezekiel2013@gmail.com
+    email: sezekiel@iup.edu
 repository-code: "https://github.com/vnageshwaran-de/agentic-control-planes-review"
 url: "https://github.com/vnageshwaran-de/agentic-control-planes-review"
-doi: "10.5281/zenodo.24403910"
+doi: "10.5281/zenodo.24404054"
 license: MIT
 version: 1.0.0
 date-released: 2026-11-19
@@ -33,11 +44,17 @@ keywords:
   - openalex
 preferred-citation:
   type: article
-  title: "Agentic AI Control Planes: A Systematic Survey of Protocols, Security, Cloud-Native LLMOps, and Governance"
+  title: "Agentic AI Control Planes: A Structured Survey of Protocols, Security, Cloud-Native LLMOps, and Governance"
   authors:
     - family-names: Nageshwaran
       given-names: Vinoth
       orcid: "https://orcid.org/0009-0004-0332-231X"
+    - family-names: Kumar
+      given-names: Vivek
+    - family-names: Saravanan
+      given-names: Harini
+    - family-names: Tran
+      given-names: Tin T.
     - family-names: Ezekiel
       given-names: Soundararajan
   journal: "IEEE Open Journal of the Computer Society"
