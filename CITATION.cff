@@ -14,7 +14,7 @@ authors:
     email: sezekiel2013@gmail.com
 repository-code: "https://github.com/vnageshwaran-de/agentic-control-planes-review"
 url: "https://github.com/vnageshwaran-de/agentic-control-planes-review"
-# doi: "10.5281/zenodo.XXXXXXXX"   # fill in after the first Zenodo release
+doi: "10.5281/zenodo.24403910"
 license: MIT
 version: 1.0.0
 date-released: 2026-11-19
