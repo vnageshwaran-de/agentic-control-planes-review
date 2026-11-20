@@ -1,5 +1,7 @@
 # agentic-control-planes-review
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24403910.svg)](https://doi.org/10.5281/zenodo.24403910)
+
 **Independent coverage-verification and reproducibility package** for the survey
 *Agentic AI Control Planes: A Systematic Survey of Protocols, Security, Cloud-Native LLMOps,
 and Governance* (Nageshwaran & Ezekiel, IEEE Open Journal of the Computer Society, 2026).
@@ -59,8 +61,7 @@ cannot discriminate the corpus). Workbooks, reconciliations, and live Cohen's κ
 `screening/`; the decision rule and exclusion codes (E1–E8) are in `protocol/screening_method.md`.
 
 ## Cite
-See `CITATION.cff`. Archived on Zenodo via GitHub Releases — the DOI badge will appear here
-after the first release (see `ZENODO_RELEASE_GUIDE.md`).
+See `CITATION.cff`. Archived on Zenodo via GitHub Releases. DOI: [10.5281/zenodo.24403910](https://doi.org/10.5281/zenodo.24403910).
 
 ## License
 Code: MIT (`LICENSE`). Data and documentation may be reused under CC-BY-4.0 with attribution.
