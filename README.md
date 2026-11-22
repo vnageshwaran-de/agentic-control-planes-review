@@ -1,10 +1,10 @@
 # agentic-control-planes-review
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24403910.svg)](https://doi.org/10.5281/zenodo.24403910)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24405467.svg)](https://doi.org/10.5281/zenodo.24405467)
 
 **Independent coverage-verification and reproducibility package** for the survey
-*Agentic AI Control Planes: A Systematic Survey of Protocols, Security, Cloud-Native LLMOps,
-and Governance* (Nageshwaran & Ezekiel, IEEE Open Journal of the Computer Society, 2026).
+*Agentic AI Control Planes: A Structured Survey of Protocols, Security, Cloud-Native LLMOps,
+and Governance* (Nageshwaran, Kumar, Saravanan, Tran, and Ezekiel, IEEE Open Journal of the Computer Society, 2026).
 
 The survey's reported search is an IEEE-Xplore-primary structured review with supplementary ACM
 Digital Library searches and snowballing (Appendix A / Figure 2 of the paper). **This repository
@@ -15,10 +15,10 @@ from an independent path. It is reported per PRISMA-ScR (Tricco et al., 2018) as
 coverage check, not as a claim of exhaustive completeness and not as a replacement for the
 paper's primary search. The separate static security-posture audit tool (§VIII-E) lives in
 [`agentic-control-planes-audit`](https://github.com/vnageshwaran-de/agentic-control-planes-audit)
-(DOI [10.5281/zenodo.20102926](https://doi.org/10.5281/zenodo.20102926)).
+(DOI [10.5281/zenodo.24424562](https://doi.org/10.5281/zenodo.24424562)).
 
 **Headline verification result:** an independent OpenAlex + ACM + snowball re-harvest
-re-identified **75 of the 119 cited research references** (67% of those in the 2019–2026 window)
+re-identified **75 of the 119 cited research references** (66% of those in the 2019–2026 window)
 and produced a dual-screened mapping sample of 898 studies; the ACM second-database check found
 90% of its title-matched records already in the open index (28 net-new, 3 included), indicating
 limited single-source dependence.
@@ -61,7 +61,7 @@ cannot discriminate the corpus). Workbooks, reconciliations, and live Cohen's κ
 `screening/`; the decision rule and exclusion codes (E1–E8) are in `protocol/screening_method.md`.
 
 ## Cite
-See `CITATION.cff`. Archived on Zenodo via GitHub Releases. DOI: [10.5281/zenodo.24403910](https://doi.org/10.5281/zenodo.24403910).
+See `CITATION.cff`. Archived on Zenodo via GitHub Releases. DOI: [10.5281/zenodo.24405467](https://doi.org/10.5281/zenodo.24405467).
 
 ## License
 Code: MIT (`LICENSE`). Data and documentation may be reused under CC-BY-4.0 with attribution.

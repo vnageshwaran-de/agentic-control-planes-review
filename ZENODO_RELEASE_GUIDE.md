@@ -50,7 +50,7 @@ Once Zenodo shows the DOI:
 3. Commit, and (optional) cut `v1.0.1` so the archive carries the self-citation — or just leave
    it; the concept DOI is stable.
 4. Cite the concept DOI in the paper's **Search Methods / Data Availability** section, distinct
-   from the audit tool's DOI (10.5281/zenodo.20102926).
+   from the audit tool's DOI (10.5281/zenodo.24424562).
 
 ## Notes
 - `.zenodo.json` (repo root) supplies Zenodo's metadata — title, authors+ORCID, license,
