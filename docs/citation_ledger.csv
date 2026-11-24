@@ -1,0 +1,150 @@
+key,type,year,category,source_tier,first_author,venue,title
+chen2023servicemesh,ARTICLE,2023,historical_anchor,anchor_pre2019,Chen,Empirical Software Engineering,On practitioners’ concerns when adopting service mesh frameworks
+karakus2017controlplane,ARTICLE,2017,historical_anchor,anchor_pre2019,Karakus,Computer Networks,A survey: Control plane scalability issues and approaches in Software-Defined Network
+kreutz2015sdnsurvey,ARTICLE,2015,historical_anchor,anchor_pre2019,Kreutz,Proceedings of the IEEE,Software-Defined Networking: A Comprehensive Survey
+mckeown2008openflow,ARTICLE,2008,historical_anchor,anchor_pre2019,McKeown,ACM SIGCOMM Computer Communication Review,OpenFlow: Enabling Innovation in Campus Networks
+sedghpour2022servicemesh,INPROCEEDINGS,2022,historical_anchor,anchor_pre2019,Sedghpour,2022 IEEE International Conference on Service-Orie,Service Mesh and eBPF-Powered Microservices: A Survey and Future Directions
+xie2015controlplane,ARTICLE,2015,historical_anchor,anchor_pre2019,Xie,Computer Communications,Control plane of software defined networks: A survey
+hu2024llmtikg,ARTICLE,2024,cross_publisher_anchor,anchor_usenix_elsevier,Hu,Computers \& Security,LLM-TIKG: Threat intelligence knowledge graph construction utilizing large language m
+iturbe2024offensiveai,ARTICLE,2024,cross_publisher_anchor,anchor_usenix_elsevier,Iturbe,Computers \& Security,Unleashing offensive artificial intelligence: Automated attack technique code generat
+kim2026sokagentic,INPROCEEDINGS,2026,cross_publisher_anchor,anchor_usenix_elsevier,Kim,35th USENIX Security Symposium (USENIX Security 26,SoK}: Attack and Defense Landscape of Agentic {AI} Systems
+liu2024promptinjection,INPROCEEDINGS,2024,cross_publisher_anchor,anchor_usenix_elsevier,Liu,33rd USENIX Security Symposium (USENIX Security 24,Formalizing and Benchmarking Prompt Injection Attacks and Defenses
+nageshwaran2026audit,MISC,2026,data_artifact,artifact,Nageshwaran,Zenodo,agentic-control-planes-audit}: Static Security-Posture Audit Kit for Public {MCP} Ser
+nageshwaran2026agenteval,ARTICLE,2026,adjacent_survey_self,author_survey,Nageshwaran,Artificial Intelligence Review,"Large language model agent evaluation and benchmarking: a systematic survey, meta-tax"
+nageshwaran2026iotagentic,ARTICLE,2026,adjacent_survey_self,author_survey,Nageshwaran,Electronics,Agentic AI and Large Language Models for Autonomous IoT Cybersecurity: A Systematic S
+awais2025fmvisiontpami,ARTICLE,2025,research_corpus,snowball_supplementary,Awais,IEEE Transactions on Pattern Analysis and Machine ,Foundation Models Defining a New Era in Vision: A Survey and Outlook
+brodimas2025intentagenticojcoms,ARTICLE,2025,research_corpus,snowball_supplementary,Brodimas,IEEE Open Journal of the Communications Society,Intent-Based Infrastructure and Service Orchestration Using Agentic-{AI}
+cao2025multiagentzerotrustjsac,ARTICLE,2025,research_corpus,snowball_supplementary,Cao,IEEE Journal on Selected Areas in Communications,Exploring {LLM}-Based Multi-Agent Situation Awareness for Zero-Trust Space-Air-Ground
+cost-latency-bench,INPROCEEDINGS,2026,research_corpus,snowball_supplementary,Ghoshal,SoutheastCon 2026,When Do Tools and Planning Help Large Language Models Think? A Cost- and Latency-Awar
+fayyazi2025proveragprovenanceaccess,ARTICLE,2025,research_corpus,snowball_supplementary,Fayyazi,IEEE Access,ProveRAG}: Provenance-Driven Vulnerability Analysis With Automated Retrieval-Augmente
+friha2024llmedgesurvojcoms,ARTICLE,2024,research_corpus,snowball_supplementary,Friha,IEEE Open Journal of the Communications Society,"LLM}-Based Edge Intelligence: A Comprehensive Survey on Architectures, Applications, "
+gogineni2025llmbudgetojcs,ARTICLE,2025,research_corpus,snowball_supplementary,Gogineni,IEEE Open Journal of the Computer Society,LLMs} on a Budget: System-Level Approaches to Power-Efficient and Scalable Fine-Tunin
+guo2023promptfltmc,ARTICLE,2023,research_corpus,snowball_supplementary,Guo,IEEE Transactions on Mobile Computing,PromptFL}: Let Federated Participants Cooperatively Learn Prompts Instead of Models -
+guo2025iortmcpmagiot,ARTICLE,2025,research_corpus,snowball_supplementary,Guo,IEEE Internet of Things Magazine,Enabling Modular and Intelligent {IoRT} Systems: Integrating the {Model Context Proto
+hamon2024aiactsecurityaccess,ARTICLE,2024,research_corpus,snowball_supplementary,Hamon,IEEE Access,Three Challenges to Secure {AI} Systems in the Context of {AI} Regulations
+hu2023knowledgeenhancedlmtkde,ARTICLE,2023,research_corpus,snowball_supplementary,Hu,IEEE Transactions on Knowledge and Data Engineerin,A Survey of Knowledge Enhanced Pre-Trained Language Models
+hu2025tightllmtc,ARTICLE,2025,research_corpus,snowball_supplementary,Hu,IEEE Transactions on Computers,TightLLM}: Maximizing Throughput for {LLM} Inference via Adaptive Offloading Policy
+huang2025llmuncertaintytse,ARTICLE,2025,research_corpus,snowball_supplementary,Huang,IEEE Transactions on Software Engineering,Look Before You Leap: An Exploratory Study of Uncertainty Analysis for Large Language
+jiang2025multiinstrjailbreakjiot,ARTICLE,2025,research_corpus,snowball_supplementary,Jiang,IEEE Internet of Things Journal,"Decomposition, Synthesis, and Attack: A Multi-Instruction Fusion Method for Jailbreak"
+jiang2026agenticaijsac,ARTICLE,2026,research_corpus,snowball_supplementary,Jiang,IEEE Journal on Selected Areas in Communications,From Large {AI} Models to Agentic {AI}: A Tutorial on Future Intelligent Communicatio
+khalil2026elderlyagenticojcs,ARTICLE,2026,research_corpus,snowball_supplementary,Khalil,IEEE Open Journal of the Computer Society,Redefining Elderly Care With Agentic {AI}: Challenges and Opportunities
+kong2025moeexpertswapptc,ARTICLE,2025,research_corpus,snowball_supplementary,Kong,IEEE Transactions on Computers,Serving {MoE} Models on Resource-Constrained Edge Devices via Dynamic Expert Swapping
+linmcpcorpus2025ase,INPROCEEDINGS,2025,research_corpus,snowball_supplementary,Lin,2025 40th IEEE/ACM International Conference on Aut,A Large-Scale Evolvable Dataset for {Model Context Protocol} Ecosystem and Security A
+liu2025embodiedbackdoortifs,ARTICLE,2025,research_corpus,snowball_supplementary,Liu,IEEE Transactions on Information Forensics and Sec,Compromising {LLM} Driven Embodied Agents With Contextual Backdoor Attacks
+liu2025layoutcopilottcad,ARTICLE,2025,research_corpus,snowball_supplementary,Liu,IEEE Transactions on Computer-Aided Design of Inte,LayoutCopilot}: An {LLM}-Powered Multiagent Collaborative Framework for Interactive A
+liu2025vlmattackstnnls,ARTICLE,2025,research_corpus,snowball_supplementary,Liu,IEEE Transactions on Neural Networks and Learning ,"A Survey of Attacks on Large Vision--Language Models: Resources, Advances, and Future"
+mcintosh2024gpthallucinationtai,ARTICLE,2023,research_corpus,snowball_supplementary,McIntosh,IEEE Transactions on Artificial Intelligence,A Culturally Sensitive Test to Evaluate Nuanced {GPT} Hallucination
+meng2026dialoginjecttifs,ARTICLE,2026,research_corpus,snowball_supplementary,Meng,IEEE Transactions on Information Forensics and Sec,Dialogue Injection Attack: Jailbreaking {LLMs} Through Context Manipulation
+nageshwaran2024novartis,INPROCEEDINGS,2024,other_self_citation,snowball_supplementary,Nageshwaran,2024 2nd International Conference on Self Sustaina,Novartis' Strategic Adoption of Snowflake Data Cloud Transforms Data Management and D
+nageshwaran2025snowflakesecurity,INPROCEEDINGS,2025,other_self_citation,snowball_supplementary,Nageshwaran,2025 International Conference on Multi-Agent Syste,Enhancing Snowflake Security: A Novel Framework Integrating {HGWCS} and {CANN} for Im
+narayan2025mcpsecframeworkacai,INPROCEEDINGS,2025,research_corpus,snowball_supplementary,Narayan,"2025 8th International Conference on Algorithms, C",A Comprehensive Security Framework for the {Model Context Protocol (MCP)} in Multi-Ag
+peng2025unifiedpromptattacktpami,ARTICLE,2025,research_corpus,snowball_supplementary,Peng,IEEE Transactions on Pattern Analysis and Machine ,Unified Prompt Attack Against Text-to-Image Generation Models
+reproducibility-llm,INPROCEEDINGS,2024,research_corpus,snowball_supplementary,Sallou,2024 IEEE/ACM 46th International Conference on Sof,Breaking the Silence: The Threats of Using {LLMs} in Software Engineering
+rivkin2024aiotsmartjiot,ARTICLE,2024,research_corpus,snowball_supplementary,Rivkin,IEEE Internet of Things Journal,AIoT} Smart Home via Autonomous {LLM} Agents
+schafer2023llmunittesttse,ARTICLE,2023,research_corpus,snowball_supplementary,"Sch{\""a}fer",IEEE Transactions on Software Engineering,An Empirical Evaluation of Using Large Language Models for Automated Unit Test Genera
+sun2025multiagentdmral,ARTICLE,2025,research_corpus,snowball_supplementary,Sun,IEEE Robotics and Automation Letters,LLM}-Based Multi-Agent Decision-Making: Challenges and Future Directions
+tian2024itcrlmicroservicetse,ARTICLE,2024,research_corpus,snowball_supplementary,Tian,IEEE Transactions on Software Engineering,iTCRL}: Causal-Intervention-Based Trace Contrastive Representation Learning for Micro
+toprani2025iacvulnaccess,ARTICLE,2025,research_corpus,snowball_supplementary,Toprani,IEEE Access,LLM} Agentic Workflow for Automated Vulnerability Detection and Remediation in Infras
+wang2025iotagentssecurityojcs,ARTICLE,2025,research_corpus,snowball_supplementary,Wang,IEEE Open Journal of the Computer Society,Security of {Internet of Agents}: Attacks and Countermeasures
+wu2024chatedaagentcad,ARTICLE,2024,research_corpus,snowball_supplementary,Wu,IEEE Transactions on Computer-Aided Design of Inte,ChatEDA}: A Large Language Model Powered Autonomous Agent for {EDA}
+wu2025autopttifs,ARTICLE,2025,research_corpus,snowball_supplementary,Wu,IEEE Transactions on Information Forensics and Sec,AutoPT}: How Far Are We From the Fully Automated Web Penetration Testing?
+xu2024drivegpt4ral,ARTICLE,2024,research_corpus,snowball_supplementary,Xu,IEEE Robotics and Automation Letters,DriveGPT4}: Interpretable End-to-End Autonomous Driving Via Large Language Model
+xu2024lvlmehubtpami,ARTICLE,2024,research_corpus,snowball_supplementary,Xu,IEEE Transactions on Pattern Analysis and Machine ,LVLM-EHub}: A Comprehensive Evaluation Benchmark for Large Vision-Language Models
+xu2025disguisedefensetifs,ARTICLE,2025,research_corpus,snowball_supplementary,Xu,IEEE Transactions on Information Forensics and Sec,Disguise While Defense: Avoid Refusal Responses in {LLM}'s Defense via a Multi-Agent 
+xu2025llmlogicalreasonertkde,ARTICLE,2025,research_corpus,snowball_supplementary,Xu,IEEE Transactions on Knowledge and Data Engineerin,Are Large Language Models Really Good Logical Reasoners? A Comprehensive Evaluation a
+yang2024kgfactstkde,ARTICLE,2024,research_corpus,snowball_supplementary,Yang,IEEE Transactions on Knowledge and Data Engineerin,Give us the Facts: Enhancing Large Language Models With Knowledge Graphs for Fact-Awa
+yao2025llmqostsc,ARTICLE,2025,research_corpus,snowball_supplementary,Yao,IEEE Transactions on Services Computing,Enhancing {LLM} {QoS} Through Cloud-Edge Collaboration: A Diffusion-Based Multi-Agent
+ying2025bimodaljailbreaktifs,ARTICLE,2025,research_corpus,snowball_supplementary,Ying,IEEE Transactions on Information Forensics and Sec,Jailbreak Vision Language Models via Bi-Modal Adversarial Prompt
+zhang2024edgesharjiot,ARTICLE,2024,research_corpus,snowball_supplementary,Zhang,IEEE Internet of Things Journal,EdgeShard}: Efficient {LLM} Inference via Collaborative Edge Computing
+zhang2024privacyassttdsc,ARTICLE,2024,research_corpus,snowball_supplementary,Zhang,IEEE Transactions on Dependable and Secure Computi,PrivacyAsst}: Safeguarding User Privacy in Tool-Using Large Language Model Agents
+zhao2024recsysllmtkde,ARTICLE,2024,research_corpus,snowball_supplementary,Zhao,IEEE Transactions on Knowledge and Data Engineerin,Recommender Systems in the Era of Large Language Models ({LLMs})
+zhou2024llmsecuritysurveycaajas,ARTICLE,2024,research_corpus,snowball_supplementary,Zhou,IEEE/CAA Journal of Automatica Sinica,The Security of Using Large Language Models: A Survey with Emphasis on {ChatGPT}
+zhou2024llmtelecomcomst,ARTICLE,2024,research_corpus,snowball_supplementary,Zhou,IEEE Communications Surveys \& Tutorials,Large Language Model ({LLM}) for Telecommunications: A Comprehensive Survey on Princi
+a2a-spec,MISC,2025,specification_standard,standard,Google,\url{https://a2a-protocol.org},"Agent2Agent (A2A) Protocol, Version 1.0.0"
+acp-spec,MISC,2025,specification_standard,standard,IBM Research,\url{https://agentcommunicationprotocol.dev},Agent Communication Protocol (ACP)
+anp-spec,MISC,2025,specification_standard,standard,Agent Network Protocol Community},\url{https://agent-network-protocol.com},Agent Network Protocol (ANP)
+kubernetes-arch,MISC,2026,specification_standard,standard,Kubernetes Authors,\url{https://kubernetes.io/docs/concepts/architect,Kubernetes Cluster Architecture
+mcp-spec,MISC,2025,specification_standard,standard,Anthropic,\url{https://modelcontextprotocol.io/specification,"Model Context Protocol Specification, Version 2025-11-25"
+nist-ai-rmf,TECHREPORT,2023,specification_standard,standard,National Institute of Standards,NIST,Artificial Intelligence Risk Management Framework ({AI RMF 1.0})
+nist-genai-profile,TECHREPORT,2024,specification_standard,standard,National Institute of Standards,NIST,Artificial Intelligence Risk Management Framework: {Generative AI Profile}
+oauth21-bcp,MISC,2024,specification_standard,standard,Hardt,IETF RFC 9700,OAuth 2.0} Security Best Current Practice
+oauth21-draft,MISC,2025,specification_standard,standard,Hardt,IETF Internet-Draft draft-ietf-oauth-v2-1,The {OAuth} 2.1 Authorization Framework
+otel-genai,MISC,2026,specification_standard,standard,OpenTelemetry Authors,\url{https://opentelemetry.io/docs/specs/semconv/g,"OpenTelemetry} Semantic Conventions for Generative {AI} Systems, v1.41.0"
+owasp-agentic-threats,MISC,2025,specification_standard,standard,OWASP Foundation},\url{https://genai.owasp.org/resource/agentic-ai-t,OWASP} Agentic {AI}: Threats and Mitigations
+owasp-llm-top10,MISC,2025,specification_standard,standard,OWASP Foundation},\url{https://genai.owasp.org/llm-top-10/},"OWASP} Top 10 for {LLM} Applications, 2025 Edition"
+c1-agent-arch,ARTICLE,2025,research_corpus,systematic_ieee_acm,Luo,IEEE Transactions on Cognitive Communications and ,Toward Edge General Intelligence With Multiple-Large Language Model ({Multi-LLM}): Ar
+c1-agent-memory,INPROCEEDINGS,2025,research_corpus,systematic_ieee_acm,"Alt{\i}n{\""o}rs",2025 3rd International Conference on Foundation an,A {Model Context Protocol} Application for Long-Term Memory Management
+c1-agent-planning,ARTICLE,2025,research_corpus,systematic_ieee_acm,Cao,IEEE Transactions on Neural Networks and Learning ,"Survey on Large Language Model-Enhanced Reinforcement Learning: Concept, Taxonomy, an"
+c1-agent-survey-2025,ARTICLE,2026,research_corpus,systematic_ieee_acm,Zheng,IEEE Transactions on Pattern Analysis and Machine ,Lifelong Learning of Large Language Model Based Agents: A Roadmap
+c1-agents-survey,ARTICLE,2026,research_corpus,systematic_ieee_acm,Ferrag,IEEE Open Journal of Intelligent Transportation Sy,"LLM} and {AI} Agents for Autonomous Systems: A Survey of Applications, Datasets, and "
+c1-toolformer,INPROCEEDINGS,2025,research_corpus,systematic_ieee_acm,Lu,ICASSP 2025 - 2025 IEEE International Conference o,ToolFiVe}: Enhancing Tool-Augmented {LLMs} via Tool Filtering and Verification
+c10-agent-card,INPROCEEDINGS,2025,research_corpus,systematic_ieee_acm,Duan,2025 IEEE 11th International Conference on Edge Co,Agent Communications Toward Agentic {AI} at Edge -- A Case Study of the {Agent2Agent}
+c10-agent-interop,ARTICLE,2025,research_corpus,systematic_ieee_acm,Aminiranjbar,IEEE Access,DAWN}: Designing Distributed Agents in a Worldwide Network
+c10-cross-framework,INPROCEEDINGS,2025,research_corpus,systematic_ieee_acm,Tupe,2025 IEEE International Conference on Service-Orie,Demonstrating Multi-Agent Collaboration via {Agent-to-Agent} and {Model Context Proto
+c10-mcp-ecosystem,INPROCEEDINGS,2026,research_corpus,systematic_ieee_acm,Siameh,2026 IEEE 5th International Conference on AI in Cy,"A Systematic Security Analysis of {Model Context Protocol}: Vulnerabilities, Exploits"
+c11-a2a-analysis,INPROCEEDINGS,2025,research_corpus,systematic_ieee_acm,Matsumoto,2025 IEEE International Conference on Computing (I,"A2A} Routing Service with {MCP} Integration: Bridging Security, Auditability, and Gov"
+c11-acp-empirical,INPROCEEDINGS,2025,research_corpus,systematic_ieee_acm,Tong,2025 IEEE Conference on Artificial Intelligence (C,IEEE AI} Standards for Agentic Systems
+c11-mcp-analysis,INPROCEEDINGS,2026,research_corpus,systematic_ieee_acm,Narajala,2026 IEEE 5th International Conference on AI in Cy,Enterprise-Grade Security for the {Model Context Protocol (MCP)}: Frameworks and Miti
+c11-mcp-clinical,INPROCEEDINGS,2025,research_corpus,systematic_ieee_acm,Ehtesham,2025 IEEE World AI IoT Congress (AIIoT),Enhancing Clinical Decision Support and {EHR} Insights through {LLMs} and the {Model 
+c11-mcp-iot,INPROCEEDINGS,2025,research_corpus,systematic_ieee_acm,Vieira Da Silva},2025 IEEE 30th International Conference on Emergin,Beyond Formal Semantics for Capabilities and Skills: {Model Context Protocol} in Manu
+c12-agent-iam,INPROCEEDINGS,2025,research_corpus,systematic_ieee_acm,Bhushan,2025 International Conference on Computer and Appl,A Conceptual Framework for Authentication in Agentic {AI} Ecosystems: Protocol Analys
+c12-aiact-enforcement,ARTICLE,2025,research_corpus,systematic_ieee_acm,Kim,IEEE Access,AI} Governance in the Context of the {EU AI Act}
+c12-eu-aiact-empirical,INPROCEEDINGS,2024,research_corpus,systematic_ieee_acm,Kelly,2024 IEEE Conference on Artificial Intelligence (C,Navigating the {EU AI Act}: A Methodological Approach to Compliance for Safety-Critic
+c12-genai-governance,INPROCEEDINGS,2025,research_corpus,systematic_ieee_acm,Joshi,2025 IEEE International Symposium on Technology an,Approaches to Responsible Governance of {GenAI} in Organizations
+c12-llm-governance-framework,ARTICLE,2026,research_corpus,systematic_ieee_acm,Huang,IEEE Transactions on Artificial Intelligence,A Conceptual Framework of {AI} Transparency From Sociotechnical Perspective
+c12-non-human-identity,ARTICLE,2025,research_corpus,systematic_ieee_acm,Joshi,IEEE Open Journal of the Computer Society,Emerging Technologies Driving Zero Trust Maturity Across Industries
+c12-policy-as-code,INPROCEEDINGS,2025,research_corpus,systematic_ieee_acm,Chowdhary,2025 17th International Conference on COMmunicatio,AutoPAC}: Exploring {LLMs} for Automating Policy to Code Conversion in Business Organ
+c12-spiffe-workload-id,INPROCEEDINGS,2024,research_corpus,systematic_ieee_acm,Cochak,2024 IEEE International Conference on Cloud Comput,Lightweight {SPIFFE} Verifiable Identity Document ({LSVID}): A Nested Token Approach 
+c13-agent-audit,INPROCEEDINGS,2025,research_corpus,systematic_ieee_acm,Souza,2025 IEEE International Conference on eScience (eS,PROV-AGENT}: Unified Provenance for Tracking {AI} Agent Interactions in Agentic Workf
+c13-agent-trace-format,INPROCEEDINGS,2026,research_corpus,systematic_ieee_acm,Pratinav,SoutheastCon 2026,AIDR-Cloud}: An Agentic {AI}-Driven Incident Response Framework for Cloud Failures
+c13-incident-response-llm,ARTICLE,2026,research_corpus,systematic_ieee_acm,Abuaziz,IEEE Access,Adaptive Incident Escalation in {SOCs} via {AI}-Driven Skill-Aware Assignment and Tie
+c13-llm-observability,INPROCEEDINGS,2025,research_corpus,systematic_ieee_acm,Koc,2025 International Conference on Computational Int,Human-in-the-Loop Evaluation Pipelines for Production {LLM} Systems
+c13-otel-llm-extension,INPROCEEDINGS,2025,research_corpus,systematic_ieee_acm,Pandruju,2025 International Conference on Applied Artificia,COSTAR}: Cloud-Observed Safety and Trust-Aware Agentic Reasoning for Enterprise Workf
+c13-tracing-distributed,ARTICLE,2025,research_corpus,systematic_ieee_acm,Yang,IEEE Transactions on Parallel and Distributed Syst,ZeroTracer}: In-Band {eBPF}-Based Trace Generator With Zero Instrumentation for Micro
+c2-api-bank,INPROCEEDINGS,2026,research_corpus,systematic_ieee_acm,Cheng,ICASSP 2026 - 2026 IEEE International Conference o,KG-ToolPlan}: Knowledge Graph-Guided Reasoning for Efficient {LLM} Tool Selection
+c2-fcalling,INPROCEEDINGS,2025,research_corpus,systematic_ieee_acm,Zhang,ICASSP 2025 - 2025 IEEE International Conference o,ADC}: Enhancing Function Calling via Adversarial Datasets and Code Line-Level Feedbac
+c2-react,ARTICLE,2025,research_corpus,systematic_ieee_acm,Hu,IEEE Control Systems Letters,Training Task Reasoning {LLM} Agents for Multi-Turn Task Planning via Single-Turn Rei
+c2-toolbench,INPROCEEDINGS,2026,research_corpus,systematic_ieee_acm,Wei,ICASSP 2026 - 2026 IEEE International Conference o,Think-Augmented Function Calling: Improving {LLM} Parameter Accuracy through Embedded
+c3-agentic-rag,INPROCEEDINGS,2025,research_corpus,systematic_ieee_acm,Habib,2025 9th International Artificial Intelligence and,Towards Explainable {AI} in Agentic Retrieval-Augmented Generation: A Systematic Revi
+c3-rag-faithfulness,ARTICLE,2025,research_corpus,systematic_ieee_acm,Malin,IEEE Journal of Selected Topics in Signal Processi,A Review of Faithfulness Metrics for Hallucination Assessment in Large Language Model
+c3-rag-survey,INPROCEEDINGS,2025,research_corpus,systematic_ieee_acm,Brehme,2025 IEEE Swiss Conference on Data Science (SDS),Can {LLMs} Be Trusted for Evaluating {RAG} Systems? A Survey of Methods and Datasets
+c3-self-rag,INPROCEEDINGS,2025,research_corpus,systematic_ieee_acm,More,2025 5th International Conference on Artificial In,A Unified Evaluation Framework for Grounded {LLM} Architectures: Comparative Analysis
+c4-graphrag,ARTICLE,2025,research_corpus,systematic_ieee_acm,Hang,IEEE Transactions on Artificial Intelligence,TrumorGPT}: Graph-Based Retrieval-Augmented Large Language Model for Fact-Checking
+c4-graphrag-empirical,INPROCEEDINGS,2025,research_corpus,systematic_ieee_acm,Ahmad,2025 IEEE 36th International Symposium on Personal,"Benchmarking Vector, Graph and Hybrid Retrieval Augmented Generation ({RAG}) Pipeline"
+c4-graphrag-microsoft,INPROCEEDINGS,2025,research_corpus,systematic_ieee_acm,Ngangmeni,2025 IEEE Conference on Artificial Intelligence (C,GraphRAG} Makes it Possible to Digest Convoluted Legal Jargon
+c4-kg-llm-survey,ARTICLE,2024,research_corpus,systematic_ieee_acm,Pan,IEEE Transactions on Knowledge and Data Engineerin,Unifying Large Language Models and Knowledge Graphs: A Roadmap
+c5-foundation-model-serving,ARTICLE,2022,research_corpus,systematic_ieee_acm,Zhang,IEEE Transactions on Cloud Computing,"Enabling Cost-Effective, {SLO}-Aware Machine Learning Inference Serving on Public Clo"
+c5-llmops-pipeline,INPROCEEDINGS,2024,research_corpus,systematic_ieee_acm,Li,2024 IEEE High Performance Extreme Computing Confe,LLM} Inference Serving: Survey of Recent Advances and Opportunities
+c5-llmops-survey,INPROCEEDINGS,2024,research_corpus,systematic_ieee_acm,Diaz-De-Arcaya,2024 9th International Conference on Smart and Sus,"Large Language Model Operations ({LLMOps}): Definition, Challenges, and Lifecycle Man"
+c5-orca-continuous-batch,INPROCEEDINGS,2026,research_corpus,systematic_ieee_acm,Patel,SoutheastCon 2026,DeepServe}: Hierarchical Model Placement and Dynamic Batching for Cost-Efficient Mult
+c5-survey-llmops-2025,INPROCEEDINGS,2025,research_corpus,systematic_ieee_acm,Devarapalli,2025 International Conference on Computing Technol,Cloud-Native {LLMOps} Meets {DataOps}: A Unified Framework for High-Volume Analytical
+c5-vector-db,INPROCEEDINGS,2025,research_corpus,systematic_ieee_acm,Jing,2025 Conference on Artificial Intelligence x Multi,When Large Language Models Meet Vector Databases: A Survey
+c5-vector-db-bench,INPROCEEDINGS,2023,research_corpus,systematic_ieee_acm,Kukreja,2023 International Workshop on Artificial Intellig,Vector Databases and Vector Embeddings -- Review
+c5-vllm-paged-attention,INPROCEEDINGS,2024,research_corpus,systematic_ieee_acm,Zhao,2024 ACM/IEEE 51st Annual International Symposium ,ALISA}: Accelerating Large Language Model Inference via Sparsity-Aware {KV} Caching
+c6-cnative-aiops,INPROCEEDINGS,2021,research_corpus,systematic_ieee_acm,Di Stefano},2021 IEEE 30th International Conference on Enablin,Prometheus and {AIOps} for the Orchestration of Cloud-Native Applications in {Ananke}
+c6-edge-llm,ARTICLE,2025,research_corpus,systematic_ieee_acm,Qu,IEEE Communications Surveys \& Tutorials,Mobile Edge Intelligence for Large Language Models: A Contemporary Survey
+c6-k8s-ai,INPROCEEDINGS,2023,research_corpus,systematic_ieee_acm,Hsieh,2023 IEEE International Conference on Cloud Engine,Voda}: A {GPU} Scheduling Platform for Elastic Deep Learning in {Kubernetes} Clusters
+c6-k8s-gpu,ARTICLE,2024,research_corpus,systematic_ieee_acm,Gao,IEEE Transactions on Computers,UniSched}: A Unified Scheduler for Deep Learning Training Jobs With Different User De
+c6-serverless-cold-start,INPROCEEDINGS,2025,research_corpus,systematic_ieee_acm,Shwe,2025 IEEE Conference on Cloud and Big Data Computi,Proactive Concurrency Tuning for Inference Serving in Serverless Platform
+c6-serverless-inference,INPROCEEDINGS,2025,research_corpus,systematic_ieee_acm,Liu,2025 IEEE International Conference on Web Services,ServerlessPD}: Fast {RDMA}-Codesigned Disaggregated Prefill-Decoding for Serverless I
+c7-agent-redteam,INPROCEEDINGS,2024,research_corpus,systematic_ieee_acm,Wang,2024 IEEE International Conference on Big Data (Bi,AutoRed}: Automated Attack Scenario Generation Framework for Red Teaming of {LLMs}
+c7-excessive-agency,INPROCEEDINGS,2025,research_corpus,systematic_ieee_acm,Li,2025 IEEE 22nd International Conference on Mobile ,We Urgently Need Privilege Management in {MCP}: A Measurement of {API} Usage in {MCP}
+c7-llm-jailbreak-empirical,ARTICLE,2026,research_corpus,systematic_ieee_acm,Chhabra,IEEE Access,"Agentic {AI} Security: Threats, Defenses, Evaluation, and Open Challenges"
+c7-llm-security-survey,ARTICLE,2023,research_corpus,systematic_ieee_acm,Gupta,IEEE Access,From {ChatGPT} to {ThreatGPT}: Impact of Generative {AI} in Cybersecurity and Privacy
+c7-redteam-llm,ARTICLE,2025,research_corpus,systematic_ieee_acm,Song,IEEE Transactions on Information Forensics and Sec,The Early Bird Catches the Leak: Unveiling Timing Side Channels in {LLM} Serving Syst
+c7-supply-chain,INPROCEEDINGS,2025,research_corpus,systematic_ieee_acm,Spoczynski,2025 IEEE European Symposium on Security and Priva,Atlas}: A Framework for {ML} Lifecycle Provenance and Transparency
+c8-indirect-pi,INPROCEEDINGS,2026,research_corpus,systematic_ieee_acm,Zhang,ICASSP 2026 - 2026 IEEE International Conference o,"ATTN}-Defense: Attention-Guided Detection, Location and Removal for Indirect Prompt I"
+c8-jailbreak-survey,ARTICLE,2026,research_corpus,systematic_ieee_acm,Duarte,IEEE Access,"A Systematic Review of Prompt Injection Attacks on Large Language Models: Trends, Tax"
+c8-memory-poisoning,ARTICLE,2026,research_corpus,systematic_ieee_acm,Su,IEEE Transactions on Pattern Analysis and Machine ,A Survey on Autonomy-Induced Security Risks in Large Model-Based Agents
+c8-pi-defense-survey,ARTICLE,2026,research_corpus,systematic_ieee_acm,Abdul Rasheed},IEEE Access,Effective Defense Strategies Against Jailbreaking in Large Language Models
+c8-pi-survey,ARTICLE,2024,research_corpus,systematic_ieee_acm,Derner,IEEE Access,A Security Risk Taxonomy for Prompt-Based Interaction With Large Language Models
+c8-prompt-injection-empirical,ARTICLE,2026,research_corpus,systematic_ieee_acm,Shao,IEEE Transactions on Information Forensics and Sec,PromptFuzz}: Harnessing Fuzzing Techniques for Robust Testing of Prompt Injection in 
+c8-rag-poisoning,INPROCEEDINGS,2025,research_corpus,systematic_ieee_acm,Mei,"2025 IEEE 24th International Conference on Trust, ",CatPoison}: Category-Oriented Knowledge Poisoning Attacks in Retrieval-Augmented Gene
+c8-tool-confusion,INPROCEEDINGS,2025,research_corpus,systematic_ieee_acm,Winston,2025 IEEE/ACM International Conference on Automati,A Taxonomy of Failures in Tool-Augmented {LLMs}
+c8-tool-poisoning,INPROCEEDINGS,2025,research_corpus,systematic_ieee_acm,Bhatt,2025 Cyber Awareness and Research Symposium (CARS),ETDI}: Mitigating Tool Squatting and Rug Pull Attacks in {Model Context Protocol (MCP
+c9-agent-coordination,ARTICLE,2025,research_corpus,systematic_ieee_acm,Yang,IEEE Transactions on Cognitive Communications and ,AutoHMA-LLM}: Efficient Task Coordination and Execution in Heterogeneous Multi-Agent 
+c9-autogen,INPROCEEDINGS,2025,research_corpus,systematic_ieee_acm,Liu,2025 IEEE International Conference on Big Data (Bi,A Large-Scale Study on the Development and Issues of Multi-Agent {AI} Systems
+c9-cascade-failure,INPROCEEDINGS,2026,research_corpus,systematic_ieee_acm,Ragupathy,2026 IEEE 5th International Conference on AI in Cy,Architectural Resilience in {AI}-Driven Decision Systems Under Adversarial Conditions
+c9-langgraph,INPROCEEDINGS,2024,research_corpus,systematic_ieee_acm,Easin,2024 IEEE 22nd Jubilee International Symposium on ,An Intelligent {LLM}-Powered Personalized Assistant for Digital Banking Using {LangGr
+c9-multiagent-llm,INPROCEEDINGS,2025,research_corpus,systematic_ieee_acm,Bhatt,2025 Cyber Awareness and Research Symposium (CARS),COALESCE}: Economic and Security Dynamics of Skill-Based Task Outsourcing Among Team 
+c9-orchestration-frameworks,ARTICLE,2026,research_corpus,systematic_ieee_acm,Khan,IEEE Access,Beyond Single-Framework Architectures: A Systematic Evaluation and Hybrid Design for 
