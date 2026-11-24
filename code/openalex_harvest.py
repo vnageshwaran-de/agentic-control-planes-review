@@ -2,12 +2,12 @@
 """OpenAlex primary harvest for the control-plane survey (multi-source expansion).
 Mirrors the published evaluation paper's design: title-scoped streams per cluster,
 unioned and deduplicated, then an AND post-filter applied on title+abstract.
-Requires an ACTIVATED OpenAlex key in /home/claude/.openalex_key.
+Requires an OpenAlex key in the OPENALEX_KEY environment variable.
 Run:  python3 openalex_harvest.py
 """
 import urllib.request, urllib.parse, json, time, csv, os, sys, re
 
-KEY=open('/home/claude/.openalex_key').read().strip()
+KEY=__import__('os').environ.get('OPENALEX_KEY','')
 FROM,TO='2019-01-01','2026-12-31'
 
 # Per cluster: list of title phrases (streams) + a required-AND predicate on text.

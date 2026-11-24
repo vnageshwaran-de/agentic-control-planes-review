@@ -1,5 +1,5 @@
 import urllib.request,urllib.parse,json,csv,time
-key=open('/home/claude/.openalex_key').read().strip()
+key=__import__('os').environ.get('OPENALEX_KEY','')
 ids=[r['openalex_id'].split('/')[-1] for r in csv.DictReader(open('openalex_harvest.csv'))]
 cc={}
 for i in range(0,len(ids),50):

@@ -1,5 +1,5 @@
 import urllib.request,urllib.parse,json,csv,time
-key=open('/home/claude/.openalex_key').read().strip()
+key=__import__('os').environ.get('OPENALEX_KEY','')
 seeds=[r['openalex_id'].split('/')[-1] for r in csv.DictReader(open('frozen_primary_final.csv')) if r['decision']=='include']
 have=set(r['openalex_id'] for r in csv.DictReader(open('openalex_harvest.csv')))
 def get(url):
