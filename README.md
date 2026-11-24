@@ -19,7 +19,7 @@ paper's primary search. The separate static security-posture audit tool (§VIII-
 
 **Headline verification result:** an independent OpenAlex + ACM + snowball re-harvest
 re-identified **75 of the 119 cited research references** (66% of those in the 2019–2026 window)
-and produced a dual-screened mapping sample of 898 studies; the ACM second-database check found
+and produced a dual-screened, third-rater-adjudicated mapping sample of 828 studies; the ACM second-database check found
 90% of its title-matched records already in the open index (28 net-new, 3 included), indicating
 limited single-source dependence.
 
@@ -28,7 +28,7 @@ limited single-source dependence.
 |---|---|
 | Unique identified | **17,682** (OpenAlex 12,021 + ACM second-database net-new 28 + snowball 5,633) |
 | Primary databases | OpenAlex + ACM Digital Library (ACM: 278 unique, 90% already in OpenAlex) |
-| Included mapping sample | **898** (primary 657 + snowball 238 + ACM 3) |
+| Included mapping sample | **828** (primary 562 + snowball 263 + ACM 3; post third-rater adjudication) |
 | Inter-rater agreement (Cohen's κ) | primary 0.45 · snowball 0.63 · ACM net-new 1.00 |
 | Prior-corpus reproduction (identification) | 75/119 (67% in-window) vs 31/69 IEEE-only pilot |
 | Last search | 2026-11-19 (living 2026 tier) |
@@ -38,7 +38,7 @@ limited single-source dependence.
 protocol/   frozen 13 cluster queries, screening method, adjudication guide
 code/       OpenAlex harvest, ACM records + dedup, fetch/screen/snowball scripts
 data/       identified corpus, citation-ordered queue, ACM harvest, snowball candidates,
-            frozen primary tier, final included corpus (898)
+            frozen primary tier, final included corpus (828)
 screening/  dual-rater workbooks + reconciliations (incl. ACM net-new, κ = 1.00)
 docs/       PRISMA-ScR methods, flow (md + svg), checklist, limitations, ACM second-database
             write-up, multi-source findings, registration draft, full reproducibility README
